@@ -1,1 +1,0 @@
-SELECT * FROM proyecto_veterinaria.cliente;
